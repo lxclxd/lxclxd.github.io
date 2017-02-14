@@ -19,7 +19,7 @@ We want each container to have its own dedicated IP address, being accessible fr
 
 **It's a good idea to disable AppArmor and firewall when testing new network configuration.**
 
-> I use a physical server. No wifi. No host virtualization.
+> I use a physical server. No wifi. No host virtualization. 
 > It may or may not work for you. Because of your hardware. Or your software. Or bad luck.
 
 Take one step at a time.
