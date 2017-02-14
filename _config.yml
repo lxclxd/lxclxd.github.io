@@ -1,8 +1,8 @@
 name: lxc lxd
 description: notes from the field
 
-url: ''
-baseurl: 'http://lxclxd.github.io'
+url: https://lxclxd.github.io
+baseurl: ''
 
 share:
   facebook: false
