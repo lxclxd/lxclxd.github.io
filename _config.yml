@@ -23,7 +23,7 @@ social:
 google_analytics_key:
 yandex_metrica:
 
-disqus: 'lxclxd'
+disqus: lxclxd
 comments: true
 
 permalink: /:year/:month/:title
