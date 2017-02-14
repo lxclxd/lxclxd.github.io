@@ -3,6 +3,7 @@ layout: post
 title: 'LXC with public (external) IP address'
 date: 2017-02-07 20:25:06
 description: How to make container accessible outside of the host
+comments: true
 tags:
  - lxc
  - network
