@@ -1,0 +1,41 @@
+name: lxc lxd
+description: notes from the field
+
+url: ''
+baseurl: 'http://lxclxd.github.io'
+
+share:
+  facebook: false
+  twitter: false
+  gplus: false
+  linkedin: false
+  pinterest: false
+  email: false
+
+social:
+  github: lxclxd
+  stackoverflow: ''
+  linkedin:
+  instagram: ''
+  lastfm: ''
+  rss: feed.xml
+
+google_analytics_key:
+yandex_metrica:
+
+disqus: 'lxclxd'
+comments: true
+
+permalink: /:year/:month/:title
+
+# Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
+#paginate: 3
+
+#highlighter: rouge
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+exclude: ['README.md', 'LICENSE']
