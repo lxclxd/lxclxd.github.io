@@ -1,7 +1,7 @@
 name: lxc lxd
 description: notes from the field
 
-url: https://lxclxd.github.io
+url: 'https://lxclxd.github.io'
 baseurl: ''
 
 share:
@@ -13,7 +13,7 @@ share:
   email: false
 
 social:
-  github: lxclxd
+  github: ''
   stackoverflow: ''
   linkedin:
   instagram: ''
@@ -23,7 +23,7 @@ social:
 google_analytics_key:
 yandex_metrica:
 
-disqus: lxclxd
+disqus: 'lxclxd'
 comments: true
 
 permalink: /:year/:month/:title
